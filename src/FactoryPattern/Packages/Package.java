@@ -1,4 +1,6 @@
-package FactoryPattern;
+package FactoryPattern.Packages;
+
+import FactoryPattern.Decoration;
 
 import java.util.ArrayList;
 import java.util.List;
