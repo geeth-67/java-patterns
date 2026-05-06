@@ -14,4 +14,11 @@ public abstract class Package {
     }
 
     protected abstract void createPackage();
+
+    @Override
+    public String toString() {
+        return "Package{" +
+                "deco=" + deco +
+                '}';
+    }
 }
